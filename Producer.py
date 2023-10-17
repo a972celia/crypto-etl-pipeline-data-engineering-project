@@ -33,7 +33,7 @@ try:
             if price is not None:
                 producer.send(crypto, value=price)
         sleep(10)
-        
+
 except KeyboardInterrupt:
     print("Shutting down...")
 except requests.RequestException as e:
