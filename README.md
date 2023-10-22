@@ -1,5 +1,6 @@
 # crypto-etl-pipeline-data-engineering-project
-
+## Project Overview
+This crypto etl pipeline data engineer project is designed to empower cryptocurrency investors by providing them with real-time insights based on price movements and news sentiment analysis. The project not only helps users keep a close eye on their preferred cryptocurrencies but also aids in making informed decisions by understanding market sentiments and trends.
 
 ## Producer
 A producer sends data to a Kafka topic. In the context of your project:
